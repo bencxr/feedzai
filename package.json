@@ -1,0 +1,32 @@
+{
+  "name": "feedzai",
+  "version": "0.2.0",
+  "description": "Take advantage of the Feedzai Fraud protection service by integrating your payment and user behavior data with this SDK. ",
+  "main": "feedzai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencxr/feedzai.git"
+  },
+  "keywords": [
+    "feedzai",
+    "fraud",
+    "protection",
+    "api",
+    "training",
+    "payments",
+    "chargeback",
+    "detection"
+  ],
+  "author": "Benedict Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bencxr/feedzai/issues"
+  },
+  "homepage": "https://github.com/bencxr/feedzai#readme",
+  "dependencies": {
+    "superagent": "^2.3.0"
+  }
+}
